@@ -25,8 +25,8 @@ def main():
 
     screen = init_game()  # Initialize the game and get the screen
     clock = pygame.time.Clock() # Initialize the clock objecct
-    rect_change_x = 160
-    rect_change_y = 160
+    rect_change_x = 100
+    rect_change_y = 100
     rect_x = 50
     rect_y = 50
     # Main game loop
